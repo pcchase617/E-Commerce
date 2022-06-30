@@ -8,7 +8,7 @@ Repository: https://github.com/pcchase617/E-Commerce
 Video Link: 
 
 Database Preview:
-
+![alt text](https://raw.githubusercontent.com/pcchase617/E-Commerce/main/database.PNG)
 
 Requirements:
 
