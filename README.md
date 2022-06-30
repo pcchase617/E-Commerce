@@ -5,7 +5,7 @@ This is a backend E-Commerce program that allows you to create, update, add and 
 
 Repository: https://github.com/pcchase617/E-Commerce
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1KtrRvisxvE14EBjUgBfqo6OiCfFlhV8x/view
 
 Database Preview:
 ![alt text](https://raw.githubusercontent.com/pcchase617/E-Commerce/main/database.PNG)
